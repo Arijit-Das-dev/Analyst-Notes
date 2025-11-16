@@ -7,11 +7,8 @@ This repo contains my handwritten notes from my Data Analysis journey, covering 
 **Essentials Covered**
 
 -> Excel
-
 -> SQL
-
 -> Python
-
 -> Power BI
 
 **My Learning Path**
@@ -20,12 +17,22 @@ I began with Python because I enjoy coding, rather than starting with Excel or P
 
 **Python & Its Libraries**
 
--> Python basics->Intermediate->Advance
-
+-> Python {basics->Intermediate->Advance}
 -> NumPy
-
 -> Pandas
-
 -> Matplotlib
-
 -> Seaborn
+
+**Databases**
+
+-> SQL (MySQL)
+-> NoSQL (MongoDB)
+
+**Other Tools**
+
+-> Excel
+-> Power BI
+
+**Why These Notes ??**
+
+All notes are handwritten in a simple, clear, and structured way so that anyone learning Data Analysis can follow easily, revise faster, and build a strong foundation.
