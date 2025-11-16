@@ -1,4 +1,5 @@
 # Analyst-Notes
 
-This repo contains my handwritten notes from my Data Analysis journey. I made these notes in a clear and simple way so anyone learning data can understand the concepts easily. 
-If you’re starting your DA journey or revising the basics, these notes will help you learn faster and stay consistent.
+**About This Repository**
+
+This repo contains my handwritten notes from my Data Analysis journey, covering all essential tools and concepts in a clear and easy-to-understand way. These notes are designed to help anyone learn, revise, and build a strong foundation in Data Analysis.
